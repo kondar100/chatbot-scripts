@@ -24,6 +24,7 @@
             border: 1px solid rgba(133, 79, 255, 0.2);
             overflow: hidden;
             font-family: inherit;
+            opacity: 1;
         }
 
         .n8n-chat-widget .chat-container.position-left {
