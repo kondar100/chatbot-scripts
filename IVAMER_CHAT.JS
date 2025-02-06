@@ -5,7 +5,7 @@
         .n8n-chat-widget {
             --chat--color-primary: var(--n8n-chat-primary-color, #FFF7F7);//#FFF7F7 854fff
             --chat--color-secondary: var(--n8n-chat-secondary-color, #FFF7F7);//6b3fd4
-            --chat--color-background: var(--n8n-chat-background-color, #ffffff);//ffffff
+            --chat--color-background: var(--n8n-chat-background-color, #FFF7F7);//ffffff
             --chat--color-font: var(--n8n-chat-font-color, #333333);//333333
             font-family: 'Geist Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         }
