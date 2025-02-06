@@ -25,6 +25,7 @@
             overflow: hidden;
             font-family: inherit;
             opacity: 1;
+            backdrop-filter: none;
         }
 
         .n8n-chat-widget .chat-container.position-left {
