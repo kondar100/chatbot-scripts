@@ -150,7 +150,7 @@
 }
 
 .n8n-chat-widget .chat-message.user {
-    background: linear-gradient(135deg, var(--chat--color-primary) 0%, var(--chat--color-secondary) 100%);
+    background: var(--chat--color-background);
     color: white;
     align-self: flex-end;
     box-shadow: 0 4px 12px rgba(255, 93, 143, 0.2);
